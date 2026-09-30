@@ -87,11 +87,9 @@ Enter the task number to mark as completed (or 'c' to cancel): 1
 
 ---
 
-## 📷 Output Screenshot
+## Output Screenshot
 
-![Task 02 Output Screenshot](./Output/output.png)
-
-*(Place your output screenshot inside the `Output/` folder as `output.png`)*
+![Task 2 Output Screenshot](Output/Output.png)
 
 ---
 
@@ -100,7 +98,7 @@ Enter the task number to mark as completed (or 'c' to cancel): 1
 ```text
 Task_02/
 ├── Output/
-│   └── README.md           # Screenshot placeholder folder
+│   └── Output.png          # Output execution screenshot
 ├── todo_list.py            # Main application source code
 ├── README.md               # Project documentation
 └── .gitignore              # Ignores bytecode and temporary cache files
@@ -114,4 +112,4 @@ Task_02/
 - **Role / Track**: Python Development Intern
 - **Task**: Task 02 – Console-Based To-Do List Application
 - **Developer**: Nihit Choudhary
-- **Repository**: [Incodevision_Python_Internship](https://github.com/nihitchoudhary690-sys/Incodevision_Python_Internship.git)
+- **Repository**: [Incodevision_Python_Internship_Task_2](https://github.com/nihitchoudhary690-sys/Incodevision_Python_Internship_Task_2.git)
